@@ -1,0 +1,12 @@
+{
+  "name": "fabrika/rotor",
+  "description": "A PHP Microframework",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andri Xhitoni",
+      "email": "andri@fabrika.al"
+    }
+  ]
+}
